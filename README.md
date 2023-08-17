@@ -22,3 +22,4 @@
 - **Reviews and Ratings**: Read and write reviews and ratings to share experiences with the community.
 - **Map Integration**: Integration with mapping services to provide directions to the selected restaurant.
 - **User Accounts**: Create accounts to save favorite restaurants, track dining history, and receive personalized recommendations.
+
