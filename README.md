@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
 <h1>Usage</h1>
 <ul>
     <li><h3>Search for Restaurants:</h3>
@@ -52,5 +49,3 @@
         <td>phonenumber5</td>
     </tr>
 </table>
-</body>
-</html>
