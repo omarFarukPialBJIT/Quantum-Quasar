@@ -21,3 +21,11 @@ images.
    
 3.    **Launch the Application:** Open the index.html file in your web browser  
      `open index.html`
+
+
+
+# Local Dining Guide
+Web Based Dining Information Solution
+
+
+Welcome to the Local Dining Guide project! This web-based software solution is designed to provide users with comprehensive dining information, making it easy for them to explore and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking for new culinary experiences or a traveler seeking the best dining spots in town, Local Dining Guide has got you covered.
